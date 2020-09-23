@@ -1,0 +1,11 @@
+Installation:
+Best to compile the dll first, but if you want to see how it works, projects are linked together
+Problems:
+There are two type libraries linked to the project, the wmi scripting object (wbemdisp.tlb), and runnable.tlb.
+I have included both with the project, win98 users may not have wmi, if you get an error, either remove the reference, or link to the tlb in the 
+Engine\Type Lib\ folder.
+Bugs: 
+I'm sure there are some.. (big project). If you find something, drop me an email at steppenwolfe_2000@yahoo.com, and try and be specific..
+Anyhow, hope you like it, (and remember to vote!)
+
+John
